@@ -15,3 +15,4 @@ data$date <- dmy(data$date)
 # Extraire l'année
 data$annee <- year(data$date)
 
+# 6 Décembre 2021
