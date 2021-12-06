@@ -1,0 +1,12 @@
+name: Allocine
+title:
+username:
+account: gamestatistic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3327134
+bundleId: 3932018
+url: https://gamestatistic.shinyapps.io/Allocine/
+when: 1606900623.50975
+asMultiple: FALSE
+asStatic: FALSE
